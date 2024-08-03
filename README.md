@@ -19,6 +19,6 @@
 5. **Data Visualization and Analysis**  
    - Developed a suite of interactive visualizations, including charts, graphs, and dashboards, to uncover actionable insights. Applied DAX (Data Analysis Expressions) for complex calculations and data aggregations.
 
-# The Coffee Shop Sales
+## The Coffee Shop Sales
 
 This project is designed to analyze sales at a coffee shop using a Power BI dashboard. Transaction data is collected from the sales system, detailing coffee types, payment methods, and quantities sold. The data is then cleaned and standardized for consistency. Data modeling establishes relationships between tables and calculates metrics like total revenue and the total count of coffee sold. The dashboard includes visuals such as area charts and pie charts to display sales distribution, alongside line graphs for trends. These insights reveal customer preferences and peak periods, supporting data-driven decisions for inventory and marketing strategies.
