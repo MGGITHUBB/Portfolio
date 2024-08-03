@@ -5,7 +5,7 @@
 ### Methodology
 
 1. **Data Acquisition**  
-   - Extracted datasets from multiple sources, including APIs, web scraping, and CSV files.
+   - Extracted datasets from multiple sources, web scraping, and CSV files.
 
 2. **Data Cleaning and Preprocessing**  
    - Conducted data cleansing operations to address missing values, correct data anomalies, and eliminate duplicate records. Utilized Python libraries (e.g., Pandas) for efficient data manipulation.
